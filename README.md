@@ -1,1 +1,3 @@
 # NAMI
+
+repozitáø založen podle instrukcí v úkolu
